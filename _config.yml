@@ -42,7 +42,7 @@ brand_color: "amber-400"
 permalink: posts/:title/
 
 # "UA-NNNNNNNN-N"
-google_analytics: "UA-108079305-1"
+google_analytics: "UA-110374798-1"
 
 # Language. For example, if you write in Japanese, use "ja"
 lang: "en"
