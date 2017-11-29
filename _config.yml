@@ -2,8 +2,9 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
-
+title: <em>Learn Markdown</em>
+description: A-Z of the Markdown web writing format taught on Udemy.
+tags: Markdown, HTML, web writing, web, Udemy
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
 url: "https://chibicode.github.io"
@@ -12,7 +13,7 @@ url: "https://chibicode.github.io"
 # Then write "/bar/". Otherwise, write:
 #
 # baseurl: nil
-baseurl: "/duo/"
+baseurl: ""
 
 # Twitter IDs
 twitter:
@@ -27,7 +28,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "static/images/og.jpg"
+      image: "static/images/udemy.jpg"
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional
@@ -41,7 +42,7 @@ brand_color: "amber-400"
 permalink: posts/:title/
 
 # "UA-NNNNNNNN-N"
-google_analytics: ""
+google_analytics: "UA-108079305-1"
 
 # Language. For example, if you write in Japanese, use "ja"
 lang: "en"
